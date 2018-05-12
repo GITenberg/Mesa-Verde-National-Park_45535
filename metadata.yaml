@@ -1,0 +1,30 @@
+_repo: Mesa-Verde-National-Park_45535
+_version: 0.1.0
+alternative_title: Mesa Verde National Park, Colorado
+covers:
+- cover_type: archival
+  image_path: 45535-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2014-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F721'
+- !lcsh 'Mesa Verde National Park (Colo.)'
+title: Mesa Verde [Colorado] National Park
+url: http://www.gutenberg.org/ebooks/45535
